@@ -1,0 +1,6 @@
+wheel
+jupyter
+numpy
+torch
+torchvision
+matplotlib
